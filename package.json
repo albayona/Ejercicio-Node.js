@@ -1,0 +1,17 @@
+{
+  "name": "tarea2",
+  "version": "1.0.0",
+  "description": "Tarea2 :)",
+  "main": "controller/controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node controller/controller.js"
+  },
+  "keywords": [],
+  "author": "Andres",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "file-system": "^2.2.2"
+  }
+}
